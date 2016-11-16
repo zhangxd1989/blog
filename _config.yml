@@ -3,12 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Simple Note
 subtitle:
-description:
-author: John Doe
+description: 不知之不知
+author: 张旭东
 language: zh-Hans
 timezone:
+avatar: /images/avatar.jpg
+duoshuo_shortname: zhangxd1989
+baidu_analytics: 31e5318a8b80cdf9f556c336e890f518
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -65,6 +68,12 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next
 
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+  
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
