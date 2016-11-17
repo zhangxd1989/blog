@@ -1,7 +1,8 @@
 ---
 title: 搭建自己的 Ngrok 服务
 date: 2015-11-17 12:00:17
-tags:
+categories: 工具
+tags: [Ngrok]
 ---
 
 ## 简介
