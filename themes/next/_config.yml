@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "Blog, Java"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -17,7 +17,7 @@ rss:
 since: 2015
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+copyright: false
 
 # Canonical, set a canonical link tag in your hexo, you could use it for your SEO of blog.
 # See: https://support.google.com/webmasters/answer/139066
@@ -79,7 +79,7 @@ scheme: Mist
 # - Introduce in 5.0.1
 # ---------------------------------------------------------------
 font:
-  enable: true
+  enable: false
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
   host:
@@ -130,6 +130,9 @@ font:
 social:
   #LinkLabel: Link
   GitHub: https://github.com/zhangxd1989
+  Stackoverflow: http://stackoverflow.com/users/4938486/zhangxudong
+  #Weibo: http://weibo.com/u/2802301025
+  #Zhihu: https://www.zhihu.com/people/zhang-xu-dong-75
 
 
 # Social Links Icons
@@ -142,8 +145,10 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
+  Stackoverflow: stack-overflow
   Twitter: twitter
   Weibo: weibo
+  Zhihu: deviantart
 
 
 # Sidebar Avatar
