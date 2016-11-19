@@ -9,9 +9,12 @@ description: <div style="text-indent:2em;">成就我们的恰恰就是那些不�
 author: 张旭东
 language: zh-Hans
 timezone:
-avatar: /images/avatar.jpg
+avatar: http://7lrzeu.com1.z0.glb.clouddn.com/image/blog/avatar.jpg
 duoshuo_shortname: zhangxd1989
 baidu_analytics: 31e5318a8b80cdf9f556c336e890f518
+
+# JiaThis 分享服务
+jiathis: true
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -63,6 +66,17 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
+index_generator:
+  per_page: 5
+
+archive_generator:
+  per_page: 20
+  yearly: true
+  monthly: true
+
+tag_generator:
+  per_page: 10
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
@@ -78,5 +92,6 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/zhangxd1989/zhangxd1989.github.io.git
-  branch: master
+  repo:
+    github: https://github.com/zhangxd1989/zhangxd1989.github.io.git,master
+    coding: https://git.coding.net/zhangxd/zhangxd.git,master
