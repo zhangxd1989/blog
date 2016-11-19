@@ -1,0 +1,10 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+Disallow: /js/
+Disallow: /css/
+Disallow: /lib/
+
+Sitemap: http://zhangxd.cn/sitemap.xml
+Sitemap: http://zhangxd.cn/baidusitemap.xml
