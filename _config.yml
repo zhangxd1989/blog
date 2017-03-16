@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Simple Notes
-subtitle: 张旭东的个人网站 - Zhang XuDong's Personal Website
+title: Sheldon's Notes
+subtitle: Sheldon的个人网站 - Sheldon's Personal Website
 description: <div style="text-indent:2em;">成就我们的恰恰就是那些不断重复做的事情。因此，优秀不是一种行为，而是一种习惯。<br/><div style="text-align:right">----亚里士多德</div></div>
-author: 张旭东
+author: Sheldon
 language: zh-Hans
 timezone:
-avatar: http://7lrzeu.com1.z0.glb.clouddn.com/image/blog/avatar.jpg
+avatar: http://7lrzeu.com1.z0.glb.clouddn.com/image/blog/avatar.png
 duoshuo_shortname: zhangxd1989
 baidu_analytics: 31e5318a8b80cdf9f556c336e890f518
 
