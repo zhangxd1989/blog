@@ -130,6 +130,7 @@ font:
 social:
   #LinkLabel: Link
   GitHub: https://github.com/zhangxd1989
+  Email: 'mailto:zhangxd_2011sz@163.com'
   #Stackoverflow: http://stackoverflow.com/users/4938486/zhangxudong
   #Weibo: http://weibo.com/u/2802301025
   #Zhihu: https://www.zhihu.com/people/zhang-xu-dong-75
@@ -145,6 +146,7 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
+  Email: envelope
   Stackoverflow: stack-overflow
   Twitter: twitter
   Weibo: weibo
