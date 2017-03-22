@@ -21,5 +21,6 @@
     {% elseif theme.hypercomments_id %}
       <div id="hypercomments_widget"></div>
     {% endif %}
+    <div id="SOHUCS" sid="{{ page.path }}" ></div> 
   </div>
 {% endif %}

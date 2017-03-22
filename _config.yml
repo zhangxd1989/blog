@@ -10,7 +10,8 @@ author: Sheldon
 language: zh-Hans
 timezone:
 avatar: http://7lrzeu.com1.z0.glb.clouddn.com/image/blog/avatar.png
-duoshuo_shortname: zhangxd1989
+#duoshuo_shortname: zhangxd1989
+# disqus_shortname: zhangxd-cn
 baidu_analytics: 31e5318a8b80cdf9f556c336e890f518
 
 # JiaThis 分享服务
