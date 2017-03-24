@@ -1,1 +1,1 @@
-{% include './comments/changyan.swig' %}
+{% include './comments/wangyi.swig' %}

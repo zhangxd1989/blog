@@ -20,7 +20,9 @@
       </div>
     {% elseif theme.hypercomments_id %}
       <div id="hypercomments_widget"></div>
+    {% elseif theme.usechangyan %}
+      <div id="SOHUCS" sid="{{ page.path }}" ></div> 
     {% endif %}
-    <div id="SOHUCS" sid="{{ page.path }}" ></div> 
+    <div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
   </div>
 {% endif %}
