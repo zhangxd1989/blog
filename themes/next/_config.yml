@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Blog, Java"
+keywords: "Blog, Java, 面试题"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -35,7 +35,7 @@ menu:
   categories: /categories
   tags: /tags
   archives: /archives
-  #about: /about  
+  #about: /about
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -260,6 +260,7 @@ mathjax:
   per_page: false
   cdn: //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
+comments: false
 
 # Swiftype Search API Key
 #swiftype_key:

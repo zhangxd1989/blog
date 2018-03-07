@@ -1,1 +1,3 @@
-{% include './comments/wangyi.swig' %}
+{% if theme.comments %}
+  {% include './comments/wangyi.swig' %}
+{% endif %}
